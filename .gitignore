@@ -1,0 +1,13 @@
+# Runtime data: the downloaded archives (large, and the source of truth) and the digests.
+data/
+out/
+run.log
+
+# Python
+__pycache__/
+
+# Editor / OS noise
+.vscode/
+.idea/
+*.swp
+.DS_Store
